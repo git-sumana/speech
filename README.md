@@ -1,7 +1,7 @@
 
 # Smart Voice Assistant
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](LICENSE)  
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo-name.svg)](https://github.com/yourusername/your-repo-name/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name.svg)](https://github.com/yourusername/your-repo-name/network)
 
@@ -18,14 +18,13 @@ A smart voice assistant that fulfills various tasks based on voice commands, inc
 
 ### Prerequisites
 
-- Python 3.x
-- Virtual Environment (recommended)
+- Python 3
+- Spyder Virtual Environment (recommended)
 - Speech Recognition Library
 - Text-to-Speech Library
-- Other dependencies (list them here)
 
 ### Installation
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/git-sumana/speech/blob/main/speechrec.py
