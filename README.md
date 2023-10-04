@@ -1,9 +1,7 @@
 
 # Smart Voice Assistant
 
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](LICENSE)  
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo-name.svg)](https://github.com/yourusername/your-repo-name/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name.svg)](https://github.com/yourusername/your-repo-name/network)
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](LICENSE) [![](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)](LICENSE) 
 
 A smart voice assistant that fulfills various tasks based on voice commands, including online shopping, weather updates, dictionary definitions, and playing music.
 
