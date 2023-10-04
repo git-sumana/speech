@@ -21,8 +21,3 @@ A smart voice assistant that fulfills various tasks based on voice commands, inc
 - Speech Recognition Library
 - Text-to-Speech Library
 
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/git-sumana/speech/blob/main/speechrec.py
