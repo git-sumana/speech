@@ -1,5 +1,5 @@
 
-# Smart Voice Assistant
+# Intelligent Voice Assistant
 
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](LICENSE) [![](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)](LICENSE) 
 
